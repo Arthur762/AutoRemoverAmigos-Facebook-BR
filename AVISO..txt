@@ -1,0 +1,14 @@
+Script Criado Produzido Por Arthur Gonçalves!
+Atualizado em: 05/10/2018
+Info:Este Script Foi Feito Para Dar Uma Limpadinha Automatica Dos Seus   Amigos No Facebook , Excluindo Alguns.                                    |
+__________________________________________________________________________|
+Como Usar?
+1: Bom Primeiro Entre No Seu Facebook .
+2: Aperte "F12" Ou o Botão Direito Do Mouse e "Especionar Elemento".
+3:Vá Em "Console"
+4:Cole O Codigo (Script) Na Barra Logo Abaixo.
+5: e Pronto Haha! Facil Viu?
+___________________________________________________________________________
+Caso Tenha Dificuldade Ao Fazer Deixei Algumas Prints 'Base' Pra Você Ter Noção De Como Funciona OK?
+
+Atenciosamente: Equipe Da AngelsCorporationBR
